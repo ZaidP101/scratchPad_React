@@ -1,4 +1,4 @@
-Steps for context cretion 
+<!-- Steps for context cretion 
 1- create context (example : max)
     just functions without any functionality init.
 2 - custom hook 
@@ -6,7 +6,7 @@ Steps for context cretion
 3 - Context Provider
     MaxProvider = Max.Provider
 
-step 2 the useMax will be imported in App and functions functionalities will be defined
+step 2 the useMax will be imported in App and functions functionalities will be defined -->
 
 # React Todo App (Learning Context API)
 
